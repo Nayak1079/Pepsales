@@ -30,7 +30,7 @@ notification-service/
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/notification-service.git
+git clone https://github.com/Nayak1079/notification-service.git
 cd notification-service
 2. Install Dependencies
 npm install
@@ -73,5 +73,3 @@ Replace notifications.json with MongoDB/PostgreSQL.
 
 Add unit tests and proper logging.
 
-👨‍💻 Author
-Built by Your Name
